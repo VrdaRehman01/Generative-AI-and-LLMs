@@ -223,6 +223,8 @@ for ln in [SRC_LANGUAGE, TGT_LANGUAGE]:
 ```
 
 ## 🔁 Transform Pipelines
+
+```python
 def tensor_transform_s(token_ids: List[int]):
     return torch.cat((torch.tensor([BOS_IDX]), torch.flip(torch.tensor(token_ids), dims=(0,)), torch.tensor([EOS_IDX])))
 
