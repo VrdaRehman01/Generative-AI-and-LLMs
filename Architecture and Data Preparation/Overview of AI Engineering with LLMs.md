@@ -20,7 +20,6 @@ If you’re aiming for roles like:
 - **Deep Learning Engineer**
 - **Data Scientist**
 
-… then this program is for **you**.
 
 ### ✅ What You Need Before Starting:
 You should already have:
@@ -30,15 +29,6 @@ And it really helps if you also know:
 - **PyTorch**
 - **Machine Learning fundamentals**
 - **Neural Networks**
-
----
-
-## 📚 How the Program Is Structured
-
-The program is split into **short, focused courses**, each packed with:
-- Hands-on labs
-- Practical exercises
-- End-of-course projects
 
 ---
 
