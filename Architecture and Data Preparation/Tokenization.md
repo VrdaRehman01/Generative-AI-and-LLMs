@@ -100,7 +100,7 @@ from transformers import BertTokenizer
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 tokens = tokenizer.tokenize("Tokenization using WordPiece")
 ```
-##ization indicates that the token is a subword and should be attached to the previous token without a space.
+>ization indicates that the token is a subword and should be attached to the previous token without a space.
 
 
 ---
@@ -113,7 +113,7 @@ from transformers import XLNetTokenizer
 tokenizer = XLNetTokenizer.from_pretrained("xlnet-base-cased")
 tokens = tokenizer.tokenize("Tokenization using SentencePiece")
 ```
-##Tokens with _ indicate that the word is preceded by a space in the original text.
+>Tokens with _ indicate that the word is preceded by a space in the original text.
 
 ---
 
@@ -161,7 +161,7 @@ def get_tokenized_sentence_and_indices(data_iter):
     indices = [vocab[token] for token in tokens]
     return tokens, indices
 ```
-##Use vocab.get_stoi() to retrieve the word-to-index mapping.
+>Use vocab.get_stoi() to retrieve the word-to-index mapping.
 The tokenizer processes each sentence individually and maps words to numerical indices.
 
 ---
