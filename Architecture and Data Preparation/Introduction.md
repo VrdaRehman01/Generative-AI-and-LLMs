@@ -44,7 +44,7 @@ Upon completing the course, the learner is able to:
 
 ## 📘 Course Structure
 
-### Module 1: Introduction to Generative AI and LLMs
+### Introduction to Generative AI and LLMs
 - Evolution and significance of generative AI
 - Differences in training and fine-tuning of:
   - **Transformers**
@@ -56,7 +56,7 @@ Upon completing the course, the learner is able to:
 
 ---
 
-### Module 2: Data Preparation for LLMs
+### Data Preparation for LLMs
 - Converting data into a format suitable for LLMs
 - Core topics:
   - **Tokenization**
