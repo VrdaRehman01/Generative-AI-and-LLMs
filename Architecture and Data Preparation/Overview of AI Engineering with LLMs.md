@@ -1,7 +1,7 @@
 # 🧠 Welcome to Generative AI Engineering with LLMs (IBM Program Overview)
 
 Hello Everyone! 👋  
-In this guide, we’ll walk through the key takeaways from IBM's **Generative AI Engineering with LLMs** program. Whether you're starting your journey or sharpening your skills in AI, this will give you the structure and insights to master one of the most in-demand domains today.
+I’ve completed IBM's **Generative AI Engineering with LLMs** program, and now I’m here to walk you through the key takeaways. Whether you're just starting out or looking to level up your AI skills, I’ll help you navigate the core concepts and practical tools to master one of the most in-demand fields today.
 
 ---
 
