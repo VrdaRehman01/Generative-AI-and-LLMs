@@ -64,7 +64,3 @@ Upon completing the course, the learner is able to:
 
 ---
 
-## 🧪 Course Components
-
-- **Short video lectures** focused on key topics
-- **Detailed readings**
