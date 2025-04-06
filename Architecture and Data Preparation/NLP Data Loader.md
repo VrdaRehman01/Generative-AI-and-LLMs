@@ -1,6 +1,5 @@
 # 🧠 Creating an NLP Data Loader
 
-**⏱ Estimated Time:** 60 minutes  
 **📌 Use Case:** Language Translation (Multilingual NLP)
 
 ---
