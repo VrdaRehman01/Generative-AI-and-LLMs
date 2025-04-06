@@ -156,8 +156,9 @@ def collate_fn(batch):
 - **Padding**  
   Adds special tokens (usually `0`) to sequences to ensure a *uniform batch shape*.
 
+---
 
-##🔁 DataLoader with `collate_fn`
+## 🔁 DataLoader with `collate_fn`
 ```pyhton
 data_loader = DataLoader(dataset, batch_size=2, shuffle=True, collate_fn=collate_fn)
 ```
